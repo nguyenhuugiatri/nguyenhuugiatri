@@ -23,8 +23,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50" />
 &nbsp;&nbsp;
 <img src="https://styled-components.com/atom.png" alt="styled-component" width="50" height="50" />
-&nbsp;&nbsp;
-<img src="https://symbols.getvecta.com/stencil_73/124_ant-design-icon.553c3e5cfc.svg" alt="ant-design" width="50" height="50"/>
 </p>
 
 
