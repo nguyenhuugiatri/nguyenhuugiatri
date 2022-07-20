@@ -5,7 +5,6 @@
 
 - I’m a hard-working web developer with a keen eye for detail, and a determination to deliver the very highest quality.
 - I take great pride in my work, and I always try to better myself with every project I work on.
-- Check out my CV: <a href='https://nakfl.github.io/cv/'>Link</a>
 
 <br>
 
